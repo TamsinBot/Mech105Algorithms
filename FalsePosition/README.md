@@ -2,7 +2,6 @@ This alorithm uses the false position method to find the root of a given equatio
 _______________
 
 Required inputs: function to evaluate, an upper and lower x-bound bracketing the root
-
 Optional inputs: desired error, maximum iterations
 ________________
 
