@@ -2,13 +2,15 @@
 This function completes LU factorization with pivoting for a given system of equations
 __________
 
-Inputs: a coefficient matrix (must be square)
+**Inputs:** a coefficient matrix 
+
+*note: coefficient matrix must be square*
 __________
 
-Outputs: a lower triangular matrix, an upper triangular matrix, and a permutation matrix
+**Outputs:** a lower triangular matrix, an upper triangular matrix, and a permutation matrix
 __________
 
-Example: completing LU factorization on the following system of equations
+**Example:** completing LU factorization on the following system of equations
 
 3x_1 + 4x_2 + 5x_3 = 9
 
